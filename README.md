@@ -30,6 +30,7 @@ Need geographic bounds for data search.
 * Duke: https://seamap.env.duke.edu/dataset/list
 * MBON: https://marinebon.org//pages/data/
 * BCO-DMO: https://www.bco-dmo.org/dataset/774848
+* OSU-MBARI Dataset: https://cmrecords.net/osu/mbari/mbari.html; https://cmrecords.net/osu/index.htm
 
 # Articles with Potential Data
 * https://www.sciencedirect.com/science/article/pii/S0278434307000131

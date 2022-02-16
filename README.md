@@ -17,7 +17,7 @@ Questions?
 * CDFW data: https://wildlife.ca.gov/Conservation/Marine/GIS/Downloads
 * Copernicus data
 * Hopkins Marine Historical Data
-* MBARI Data https://www.mbari.org/products/data-repository/; https://www.mbari.org/products/data-repository/mbts_data/; https://serc.carleton.edu/usingdata/datasheets/MBARI.html; https://www.mbari.org/science/seafloor-processes/geological-changes/coordinated-canyon-experiment-datareport-main-page/; https://registry.opendata.aws/pacific-sound/; https://stoqs.mbari.org/
+* MBARI Data https://www.mbari.org/products/data-repository/; https://www.mbari.org/products/data-repository/mbts_data/; https://serc.carleton.edu/usingdata/datasheets/MBARI.html; https://www.mbari.org/science/seafloor-processes/geological-changes/coordinated-canyon-experiment-datareport-main-page/; https://registry.opendata.aws/pacific-sound/; https://stoqs.mbari.org/; https://www3.mbari.org/bog/Projects/CentralCal/summary/#; https://www.mbari.org/science/upper-ocean-systems/biological-oceanography/; https://www3.mbari.org/bog/roadmap/roadmap.htm#data
 * NPS Data??
 * Moss Landing Data: https://catalog.data.gov/dataset/biological-chemical-and-other-data-collected-from-station-monterey-bay-commercial-wharf-by-moss4; https://mlml.sjsu.edu/public-data/
 * USGS https://data.usgs.gov/datacatalog/data/USGS:1222e7c5-f15f-49f8-bfc7-b63c06f9acfb; https://www.sciencebase.gov/catalog/item/5a454153e4b0d05ee8bee370
@@ -39,6 +39,9 @@ Questions?
 * MBON: https://marinebon.org//pages/data/
 * BCO-DMO: https://www.bco-dmo.org/dataset/774848
 * OSU-MBARI Dataset: https://cmrecords.net/osu/mbari/mbari.html; https://cmrecords.net/osu/index.htm
+* Monterey Bay 2006 experiment: http://www3.mbari.org/MB2006/mbdata/archived-data.htm
+* Monterey Bay 2003: https://www3.mbari.org/aosn/MontereyBay2003/
+* CENCOOS: https://data.cencoos.org/
 
 # Articles with Potential Data
 * https://www.sciencedirect.com/science/article/pii/S0278434307000131

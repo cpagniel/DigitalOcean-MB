@@ -2,7 +2,14 @@
 
 # UNDER CONSTRUCTION
 
-Need geographic bounds for data search.
+
+
+Questions?
+- need geographic bounds for data search; what is Monterey region defined as?
+- how to organize? in situ vs. satellite, physical, chemical vs. biological or by instrument type? 
+- just list links to datasets for now? or download and store in Google Drive
+- just work through each database and institution?
+
 
 * NASA satellite data
 * WOD data: https://www.ncei.noaa.gov/access/world-ocean-database-select/dbsearch.html

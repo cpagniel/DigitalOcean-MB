@@ -6,6 +6,8 @@
 
 Questions?
 - need geographic bounds for data search; what is Monterey region defined as?
+1. Longitude from -123.2000 to -121.0000; Latitude from 37.9000 to 35.5000
+
 - how to organize? in situ vs. satellite, physical, chemical vs. biological or by instrument type? 
 - just list links to datasets for now? or download and store in Google Drive
 - just work through each database and institution?

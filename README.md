@@ -2,13 +2,13 @@
 
 <h1 align="center"> **------UNDER CONSTRUCTION------** </h1>
 
-# Overview
+## Overview
 
 This repository compiles various oceanographic data collected within the Monterey Bay region. 
 
-# Contents
+## Contents
 
-# How to Contribute
+## How to Contribute
 
-# Citing DigitalOcean-MB
+## Citing DigitalOcean-MB
 

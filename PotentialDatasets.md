@@ -15,7 +15,7 @@ Questions?
 # Potential Datasets
 
 * NASA satellite data
-* WOD data: https://www.ncei.noaa.gov/access/world-ocean-database-select/dbsearch.html
+* DOWNLOADED <--> WOD data: https://www.ncei.noaa.gov/access/world-ocean-database-select/dbsearch.html
 * CDFW data: https://wildlife.ca.gov/Conservation/Marine/GIS/Downloads
 * Copernicus data
 * Hopkins Marine Historical Data

@@ -15,7 +15,6 @@ Questions?
 # Potential Datasets
 
 * NASA satellite data
-* DOWNLOADED <--> WOD data: https://www.ncei.noaa.gov/access/world-ocean-database-select/dbsearch.html
 * CDFW data: https://wildlife.ca.gov/Conservation/Marine/GIS/Downloads
 * Copernicus data
 * Hopkins Marine Historical Data
@@ -44,6 +43,9 @@ Questions?
 * Monterey Bay 2006 experiment: http://www3.mbari.org/MB2006/mbdata/archived-data.htm
 * Monterey Bay 2003: https://www3.mbari.org/aosn/MontereyBay2003/
 * CENCOOS: https://data.cencoos.org/
+
+# Downloaded
+* WOD data: https://www.ncei.noaa.gov/access/world-ocean-database-select/dbsearch.html
 
 # Articles with Potential Data
 * https://www.sciencedirect.com/science/article/pii/S0278434307000131

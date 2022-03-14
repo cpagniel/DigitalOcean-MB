@@ -1,7 +1,13 @@
-<h1 align="center"> DigitalOcean-MB </h1>
+<div align="center">
+  
+## DigitalOcean-MB
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+  
+####
+  
+</div>
 
 <h1 align="center"> **------UNDER CONSTRUCTION------** </h1>
 

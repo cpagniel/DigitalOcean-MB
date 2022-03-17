@@ -44,6 +44,7 @@ Questions?
 * Monterey Bay 2003: https://www3.mbari.org/aosn/MontereyBay2003/
 * CENCOOS: https://data.cencoos.org/
 * Some of the BCG Argos (processed by MBARI): https://polarwatch.noaa.gov/erddap/tabledap/SOCCOM_BGC_Argo_Snapshot_Archive.graph?longitude%2Clatitude%2CpH_insitu&latitude%3E=35.5&latitude%3C=37.9&longitude%3E=230&longitude%3C=240&depth%3E=100&depth%3C=150&.draw=markers&.marker=1%7C5&.color=0x000000&.colorBar=%7C%7C%7C%7C%7C&.bgColor=0xffccccff
+* CoastalWatch: https://coastwatch.pfeg.noaa.gov/data.html
 
 # Downloaded
 * WOD data: https://www.ncei.noaa.gov/access/world-ocean-database-select/dbsearch.html

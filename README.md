@@ -9,7 +9,7 @@
   <a href= "https://github.com/cpagniel/DigitalOcean-MB/wiki">![Wiki Documentation](https://img.shields.io/badge/wiki-documentation-forestgreen)</a>
   [![Twitter Follow](https://img.shields.io/badge/follow-%40FishySounds-blue.svg?style=flat&logo=twitter)](https://twitter.com/FishySounds)
   
-  <h4> A digital repository of oceanographic data collected within the Monterey Bay region. </h4>
+  <h4> A digital directory of oceanographic data collected within the Monterey Bay region. </h4>
   
   <img src="https://www.vosp.us/wp-content/uploads/Under.jpg"> </img>
 
